@@ -4,7 +4,6 @@ Project Basis Data Kelompok F
 ## ANGGOTA KELOMPOK :
 
 ```text
-\justifying
 Galih Tri Prasetyo 		      (K1D024028) 
 Dionisius Anthoni Pratama 	(K1D024031)
 Rahma Aulia Fatma		        (K1D024032)
