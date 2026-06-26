@@ -56,7 +56,8 @@ Arroja Aliya Fadhilah   	  	(K1D024037)
 # ERD
 ![alt text](https://github.com/YonnnKun/Basis-Data-Kelompok-F/blob/main/ERD%20Manajemen%20Restoran.drawio.png?raw=true)
 
-# Sturuktur Folder
+## Structure
+```text
 📦Basis-Data-Kelompok-F
  ┣ 📂.git
  ┃ ┣ 📂hooks
@@ -116,7 +117,7 @@ Arroja Aliya Fadhilah   	  	(K1D024037)
  ┣ 📜Normalisasi Data.xlsx
  ┣ 📜README.md
  ┗ 📜Video Demo Query MySQL
-
+```
 
 
 
