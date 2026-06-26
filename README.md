@@ -54,31 +54,7 @@ Arroja Aliya Fadhilah   	  	(K1D024037)
   - Rating review harus antara 1 sampai 5.
 
 # ERD
-Daftar Entitas/Primary Key/Foreign Key/atribut
-- Pelanggan/id_pelanggan/-/nama_pelanggan, email, nomor_telepon, alamat                
-- Karyawan/id_karyawan/-/nama_karyawan, jabatan, shift, nomor_telepon
-- Meja/nomor_meja/-/kapasitas
-- Menu/id_menu/-/ nama_menu, harga
-- Pembayaran/id_bayar/-/metode_pembayaran, status_bayar
-- Reservasi/id_reservasi/nomor_meja, id_pelanggan/tanggal_reservasi, jumlah_tamu, status_reservasi
-- Pesanan/id_pesanan/id_pelanggan, nomor_meja, id_karyawan, id_bayar/total_bayar, tanggal_pemesanan
-- Detail_Pesanan/id_detail_pesanan/id_pesanan, id_menu/id_menujumlah_porsi, subtotal, catatan_khusus
-- Review/id_review/id_pelanggan, id_menu/rating (1–5), komentar
-- Bahan_Baku/id_bahan-/nama_bahan
-- Menu_Bahan/id_menu, id_bahan/id_menu, id_bahan
 
-Kardinaliat Relasi
-- Pelanggan → Pesanan      (1 : M)
-- Pelanggan → Reservasi    (1 : M)
-- Pelanggan → Review       (1 : M)
-- Karyawan → Pesanan       (1 : M)
-- Meja → Reservasi         (1 : M)
-- Meja → Pesanan           (1 : M)
-- Pembayaran → Pesanan     (1 : M)
-- Pesanan → Detail_Pesanan (1 : M)
-- Menu → Detail_Pesanan    (1 : M)
-- Menu → Review            (1 : M)
-- Menu ↔ Bahan_Baku        (M : N) 
 
 # Sturuktur Folder
 Basis-Data-Kelompok-F/
