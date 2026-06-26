@@ -53,7 +53,7 @@ Arroja Aliya Fadhilah   	  	(K1D024037)
   - Shift karyawan yang valid: Pagi, Siang, Sore.
   - Rating review harus antara 1 sampai 5.
 
-#ERD
+# ERD
 Daftar Entitas/Primary Key/Foreign Key/atribut
 - Pelanggan/id_pelanggan/-/nama_pelanggan, email, nomor_telepon, alamat                
 - Karyawan/id_karyawan/-/nama_karyawan, jabatan, shift, nomor_telepon
