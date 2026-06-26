@@ -57,21 +57,65 @@ Arroja Aliya Fadhilah   	  	(K1D024037)
 ![alt text](https://github.com/YonnnKun/Basis-Data-Kelompok-F/blob/main/ERD%20Manajemen%20Restoran.drawio.png?raw=true)
 
 # Sturuktur Folder
-Basis-Data-Kelompok-F/
-├── 01_inisialisasi.sql
-├── 02_ddl.sql
-├── 03_function.sql
-├── 04_trigger.sql
-├── 05_procedure.sql
-├── 06_view.sql
-├── 07_dml.sql
-├── 08_query.sql
-├── ERD Manajemen Restoran
-├── ERD_BASDAT_drawio_5.png
-├── LAPORAN TUGAS PROJECT Basis Data FINAL.docx
-├── Normalisasi Data.xlsx
-├── Video Demo Query MySQL
-└── README.md
+📦Basis-Data-Kelompok-F
+ ┣ 📂.git
+ ┃ ┣ 📂hooks
+ ┃ ┃ ┣ 📜applypatch-msg.sample
+ ┃ ┃ ┣ 📜commit-msg.sample
+ ┃ ┃ ┣ 📜fsmonitor-watchman.sample
+ ┃ ┃ ┣ 📜post-update.sample
+ ┃ ┃ ┣ 📜pre-applypatch.sample
+ ┃ ┃ ┣ 📜pre-commit.sample
+ ┃ ┃ ┣ 📜pre-merge-commit.sample
+ ┃ ┃ ┣ 📜pre-push.sample
+ ┃ ┃ ┣ 📜pre-rebase.sample
+ ┃ ┃ ┣ 📜pre-receive.sample
+ ┃ ┃ ┣ 📜prepare-commit-msg.sample
+ ┃ ┃ ┣ 📜push-to-checkout.sample
+ ┃ ┃ ┣ 📜sendemail-validate.sample
+ ┃ ┃ ┗ 📜update.sample
+ ┃ ┣ 📂info
+ ┃ ┃ ┗ 📜exclude
+ ┃ ┣ 📂logs
+ ┃ ┃ ┣ 📂refs
+ ┃ ┃ ┃ ┣ 📂heads
+ ┃ ┃ ┃ ┃ ┗ 📜main
+ ┃ ┃ ┃ ┗ 📂remotes
+ ┃ ┃ ┃ ┃ ┗ 📂origin
+ ┃ ┃ ┃ ┃ ┃ ┗ 📜HEAD
+ ┃ ┃ ┗ 📜HEAD
+ ┃ ┣ 📂objects
+ ┃ ┃ ┣ 📂info
+ ┃ ┃ ┗ 📂pack
+ ┃ ┃ ┃ ┣ 📜pack-5694606bd194d6b7d8b7ea0ca047359f539f1292.idx
+ ┃ ┃ ┃ ┣ 📜pack-5694606bd194d6b7d8b7ea0ca047359f539f1292.pack
+ ┃ ┃ ┃ ┗ 📜pack-5694606bd194d6b7d8b7ea0ca047359f539f1292.rev
+ ┃ ┣ 📂refs
+ ┃ ┃ ┣ 📂heads
+ ┃ ┃ ┃ ┗ 📜main
+ ┃ ┃ ┣ 📂remotes
+ ┃ ┃ ┃ ┗ 📂origin
+ ┃ ┃ ┃ ┃ ┗ 📜HEAD
+ ┃ ┃ ┗ 📂tags
+ ┃ ┣ 📜config
+ ┃ ┣ 📜description
+ ┃ ┣ 📜HEAD
+ ┃ ┣ 📜index
+ ┃ ┗ 📜packed-refs
+ ┣ 📜01_inisialisasi.sql
+ ┣ 📜02_ddl.sql
+ ┣ 📜03_function.sql
+ ┣ 📜04_trigger.sql
+ ┣ 📜05_procedure.sql
+ ┣ 📜06_view.sql
+ ┣ 📜07_dml.sql
+ ┣ 📜08_query.sql
+ ┣ 📜Basis Data F.pdf
+ ┣ 📜ERD Manajemen Restoran.drawio.png
+ ┣ 📜LAPORAN TUGAS PROJECT Basis Data (1).docx
+ ┣ 📜Normalisasi Data.xlsx
+ ┣ 📜README.md
+ ┗ 📜Video Demo Query MySQL
 
 
 
