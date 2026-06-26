@@ -54,7 +54,7 @@ Arroja Aliya Fadhilah   	  	(K1D024037)
   - Rating review harus antara 1 sampai 5.
 
 # ERD
-![alt text](https://github.com/YonnnKun/Basis-Data-Kelompok-F/blob/main/ERD%20Manajemen%20Restoran.drawio.png?raw=true)
+![alt text](https://github.com/YonnnKun/Basis-Data-Kelompok-F/blob/main/ERD%20Sistem%20Manajemen%20Restoran.png?raw=true)
 
 ## Structure Folder
 ```text
